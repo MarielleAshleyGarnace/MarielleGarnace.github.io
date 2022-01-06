@@ -1,19 +1,16 @@
 <html>
-<h1>Introduction</h1>
+<h1>Hello Beautiful People!</h1>
 <body>
 <br>Full name: Marielle Ashley T. Garnace</br>
 <br>Nickname: Marielle/Ashley</br>
-<br>Highschool graduated From? City the high school is located at: Universal College of Paranaque</br> 
 <br>Course: Bachelor of arts in Multimedia Arts</br> 
-<br>Scholarship?: Yes, Socialized Financial Assistance 35%</br>
-<br>Transferee/ Second course?: Not a transferee/second course</br>  
 <br>Did I choose this course? Yes</br> 
 <br>Why yes?</br> 
-Making art has always been my passion since my childhood self and that has never changed.
+Making art has always been my passion since my childhood self and that has never changed. Cliche as it may be, but it's one of the reasons why I am still striving until this day.
 <br>I.T experience:</br> 
 <br>Programming from PROGCON</br> 
 <br>Hobbies/ Interest /Libangan:</br> 
-Play games, still make art (Drawing, Painting), watch Youtube videos and listening to music. 
+Play games, make Personal art (Drawing, Painting), watch Youtube videos and listening to music. 
 <br>Goals in life:</br> 
 Be better and improve my art skills and help out other people through those skills. 
 <br>What do you expect to learn from this course?: 
