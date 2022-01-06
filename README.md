@@ -6,7 +6,7 @@
 <br>Course: Bachelor of arts in Multimedia Arts</br> 
 <br>Did I choose this course? Yes</br> 
 <br>Why yes?</br> 
-Making art has always been my passion since my childhood self and that has never changed. Cliche as it may be, but it's one of the reasons why I am still striving until this day.
+<br>Making art has always been my passion since my childhood self and that has never changed. Cliche as it may be, but it's one of the reasons why I am still striving until this day.</br>
 <br>I.T experience:</br> 
 <br>Programming from PROGCON</br> 
 <br>Hobbies/ Interest /Libangan:</br> 
